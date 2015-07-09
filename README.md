@@ -1,4 +1,4 @@
-# Akka HTTP microservice example
+# TMS Identity Micro (for authentication)
 
 This project demonstrates the [Akka HTTP](http://doc.akka.io/docs/akka-stream-and-http-experimental/current/scala.html) library and Scala to write a simple REST (micro)service. The project shows the following tasks that are typical for most Akka HTTP-based projects:
 
