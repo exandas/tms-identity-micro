@@ -60,7 +60,7 @@ trait Service extends UserProtocols {
   }
 }
 
-object AkkaHttpMicroservice extends App with Service {
+object IdentityMicro extends App with Service {
   override implicit val system = ActorSystem()
   override implicit val executor = system.dispatcher
   override implicit val materializer = ActorMaterializer()
